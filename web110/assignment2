@@ -2,10 +2,10 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>2 activities summary. List the Activity name you completed. Describe the selected activity topic in your own words.
-What did you learn about the topic?  (What did you learn in the activity you completed? Include yourself in your writing style.)
-How do you envision being able to apply the concept to your own current or future environment?
-</title>
+    <title>The first activity completed was, TutorialsPoint: Web Browser. The activity was about web Browsers which is an application software that allows 
+us to view and explore information on the web. Users can view a web page by entering a URL into the address bar. A web browser interprets text and commands contained 
+in the web page. I learned that the most basic components that all web browsers must exhibit are Controller/Dispatcher, Interpreter, and Client Programs. Some of the 
+client programs that are used are HTTP, SMTP, FTP, NNTP, and POP. Understanding more about the web and how it works will help me to know how coding will affect a web page.</title>
   </head>
   <body>
     <p>Summaries</p>
